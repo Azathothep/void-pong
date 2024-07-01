@@ -1,2 +1,2 @@
 # \<pong\>
-An exploration of code aesthetic through classic Pong
+An exploration of code aesthetic through classic Pong variations
